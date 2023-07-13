@@ -1,6 +1,6 @@
 # DELTA_PATCH_FATFS
-Delta Patching binary files using JojoDiff Algorithm with the help of FatFS files For STM32 Target <br>
-The project will be used next to implement DELTA OTA Update
+Delta Patching binary files using JojoDiff Algorithm with the help of FatFS For STM32 Target <br>
+<br>The project will be used next, to implement DELTA OTA Update
 
 ## How to generate Patch File
 To generate patch files you'll need to build [JojoDiff](http://jojodiff.sourceforge.net) or [JDiff.js](https://github.com/janjongboom/jdiff-js).
